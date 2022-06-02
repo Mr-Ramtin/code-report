@@ -19,6 +19,6 @@
 
  # Usage
 
-`python strong.py Name rootcode @example`
+`python storng.py Name rootcode @example`
 
 #به جای Name اسم اکانت طرف و به جای @example آیدی طرف رو قرار بدید
