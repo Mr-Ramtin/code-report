@@ -24,5 +24,5 @@ ____________________
 
 `chmod 777 *`
 
-`python storng.py [name] rootcode [id target]`
+`python strong.py [name] rootcode [id target]`
 _______________
