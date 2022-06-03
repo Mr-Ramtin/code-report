@@ -1,4 +1,5 @@
-# code-report
+#Code-Report ![](https://i.imgur.com/fe85aVR.png)
+
 #CODED BY RAMTIN & SALLEH & MJI
 
 #Powerful comrades
@@ -25,4 +26,5 @@ ____________________
 `chmod 777 *`
 
 `python strong.py [name] rootcode [id target]`
-_______________
+___________________
+screenshot ---- ![Screenshot](https://raw.githubusercontent.com/Mr-Ramtin/code-report/main/IMG_20220603_201941_949.jpg) screen [screenshot code](https://raw.githubusercontent.com/Mr-Ramtin/Code-Report/main/IMG_20220603_201941_949.jpg) the god ---
