@@ -1,5 +1,7 @@
 # code-report
-#CODED BY RAMTIN & SALLEH
+#CODED BY RAMTIN & SALLEH & MJI
+
+#Powerful comrades
 
 اولین و جدیدترین نسخه ریپورتر و ساخت کد فیلتری روبیکا با پخش همزمان آهنگ 
 
