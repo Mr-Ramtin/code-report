@@ -11,7 +11,7 @@
 
 `pkg install git`
 
-`pkg install pyrhon`
+`pkg install python`
 
 `git clone https://github.com/Mr-Ramtin/code-report`
 
