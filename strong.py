@@ -1,4 +1,5 @@
-#usr/bin/python3 !
+#!/usr/bin/python3
+# the We are from the [ASHIYANEH.ir] group
 # the powerful in the internet the Mr Root / my friend [MJi]
 #---------------------
 import sys
