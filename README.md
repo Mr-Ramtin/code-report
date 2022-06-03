@@ -5,22 +5,24 @@
 
 اولین و جدیدترین نسخه ریپورتر و ساخت کد فیلتری روبیکا با پخش همزمان آهنگ 
 
-# Installation
+____________________
+# run
 
-`apt update`
+apt-get upgrade -y
 
-`apt upgrade`
+apt-get install git
 
-`pkg install git`
+apt-get install python
 
-`pkg install python`
+apt-get install sox
 
-`git clone https://github.com/Mr-Ramtin/code-report`
+cd
 
-`cd code-report`
+git clone https://github.com/Mr-Ramtin/code-report
 
- # Usage
+cd code-report
 
-`python strong.py Name rootcode @example`
+chmod 777 *
 
-#به جای Name اسم اکانت طرف و به جای @example آیدی طرف رو قرار بدید
+python storng.py [name] rootcode [id target]
+_______________
