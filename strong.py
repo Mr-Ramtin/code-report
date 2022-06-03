@@ -91,9 +91,8 @@ if password == "rootcode":
                 sleep(2)
                 try:
                     system("rm -rf code")
-                    system("cd && git clone https://github.com/Mester-Root/code && cd code && chmod 777 * && python the")
+                    system("git clone https://github.com/Mester-Root/code && cd code && chmod 777 * && python the")
                 except:
-                    system("cd $HOME")
                     system("git clone https://github.com/Mester-Root/code")
                     system("cd code")
                     system("chmod +x *")
@@ -123,9 +122,8 @@ if password == "rootcode":
                 sleep(2)
                 try:
                     system("rm -rf code")
-                    system("cd && git clone https://github.com/Mester-Root/code && cd code && chmod 777 * && python the")
+                    system("git clone https://github.com/Mester-Root/code && cd code && chmod 777 * && python the")
                 except:
-                    system("cd $HOME")
                     system("git clone https://github.com/Mester-Root/code")
                     system("cd code")
                     system("chmod +x *")
@@ -155,13 +153,9 @@ if password == "rootcode":
                 sleep(2)
                 try:
                     system("rm -rf code")
-                    system("cd && git clone https://github.com/Mester-Root/code && cd code && chmod 777 * && python the")
+                    system("git clone https://github.com/Mester-Root/code && cd code && chmod 777 * && python the")
                 except:
-                    system("cd $HOME")
-                    try:
-                        system("git clone https://github.com/Mester-Root/code")
-                    except:
-                        system("cd code")
+                    system("git clone https://github.com/Mester-Root/code")
                     system("cd code")
                     system("chmod +x *")
                     system("python the")
