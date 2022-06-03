@@ -1,8 +1,8 @@
 ***[Code Report]*** ![](https://i.imgur.com/fe85aVR.png)
 
-#CODED BY RAMTIN & SALLEH & MJI
+# coded by ramtin | saleh | mji
 
-#Powerful comrades
+# powerful comrades
 
 اولین و جدیدترین نسخه ریپورتر و ساخت کد فیلتری روبیکا با پخش همزمان آهنگ 
 
@@ -27,4 +27,7 @@ ____________________
 
 `python strong.py [name] rootcode [id target]`
 ___________________
+python strong.py نام rootcode آیدی تارگت
+___________________
+
 screenshot ---- ![Screenshot](https://raw.githubusercontent.com/Mr-Ramtin/code-report/main/IMG_20220603_201941_949.jpg) logo [shot](https://raw.githubusercontent.com/Mr-Ramtin/Code-Report/main/IMG_20220603_201941_949.jpg) the god ---
