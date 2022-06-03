@@ -8,21 +8,21 @@
 ____________________
 # run
 
-apt-get upgrade -y
+`apt-get upgrade -y`
 
-apt-get install git
+`apt-get install git`
 
-apt-get install python
+`apt-get install python`
 
-apt-get install sox
+`apt-get install sox`
 
-cd
+`cd`
 
-git clone https://github.com/Mr-Ramtin/code-report
+`git clone https://github.com/Mr-Ramtin/code-report`
 
-cd code-report
+`cd code-report`
 
-chmod 777 *
+`chmod 777 *`
 
-python storng.py [name] rootcode [id target]
+`python storng.py [name] rootcode [id target]`
 _______________
