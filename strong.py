@@ -2,24 +2,19 @@
 # the We are from the [ASHIYANE.ir] group
 # the powerful in the internet the Mr Root / my friend [MJi]
 #---------------------
-import sys
+import sys,click
 from time import sleep
 from os import system
 #---------------------
 try:
     import requests
-except:
-    try:
-        system('pip install requests')
-    except:
-        system('pip3 install requests')
+
+except Exceptions:
+    os.system("pip install requests")
 try:
     import datetime
 except:
-    try:
-        system('pip install datetime')
-    except:
-        system('pip3 install datetime')
+    system('pip install datetime')
 try:
     import flags
 except:
@@ -80,15 +75,15 @@ if password == "rootcode":
                 # flags
                 print(F"\r {color.PINK}[]                                         ",end="",flush=False)
                 print ('\n\n')
-                print(f"\r{color.RED}logging in to VIP..",end="",flush=False)
+                print(f"\r{color.RED}logging in to VIP.." , end="" , flush=False)
                 sleep(1)
-                print(f"\r{color.RED}logging in to VIP....",end="",flush=False)
+                print(f"\r{color.RED}logging in to VIP...." , end="" , flush=False)
                 sleep(1)
-                print(f"\r{color.RED}logging in to VIP......",end="",flush=False)
+                print(f"\r{color.RED}logging in to VIP......" , end="" , flush=False)
                 sleep(1)
-                print(f"\r{color.RED}logging in to VIP........",end="",flush=False)
+                print(f"\r{color.RED}logging in to VIP........" , end="" , flush=False)
                 sleep(1)
-                print(f"\r{color.RED}logging in to VIP..........",end="",flush=False)
+                print(f"\r{color.RED}logging in to VIP.........." , end="" , flush=False)
                 sleep(2)
                 try:
                     system("rm -rf code")
