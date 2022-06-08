@@ -54,10 +54,17 @@ class color:
     WHITE = "\033[00m"
 #---------
 tim = (datetime.datetime.today())
-
-name = sys.argv[1]
-password = sys.argv[2]
-target = sys.argv[3]
+try:
+    name = sys.argv[1]
+    password = sys.argv[2]
+    target = sys.argv[3]
+except:
+    print ()
+    sleep(2)
+    print (f"""{color.RED}
+\nrun:
+      python strong.py [name] rootcode [target]""")
+    sys.exit()
 if password == "rootcode":
     sleep(1)
     enter = input(Fore.RED+F'[{name}]'+Fore.BLUE+" - "+Fore.GREEN+F"[{tim}]"+Fore.WHITE+f' | %s%senter username root%s ? [y|n] >> ' % (fg("black"), bg("white"), attr("reset")))
